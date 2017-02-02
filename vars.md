@@ -18,12 +18,12 @@ export KEY_SIZE=2048
 export CA_EXPIRE=3650
 export KEY_EXPIRE=3650
 
-export KEY_COUNTRY="ES"
-export KEY_PROVINCE="CAT"
-export KEY_CITY="Barcelona"
-export KEY_ORG="Eurecat"
-export KEY_EMAIL="notifications-bigdata@eurecat.org"
-export KEY_OU="Big Data Analytics Unit"
+export KEY_COUNTRY="country"
+export KEY_PROVINCE="province"
+export KEY_CITY="city"
+export KEY_ORG="org"
+export KEY_EMAIL="email@example.com"
+export KEY_OU="ou"
 export KEY_NAME="server"
 export KEY_CN="example.com"
 ```
